@@ -1,6 +1,8 @@
 # IOT Raspberry Pi Proxy
 
-Using Nginx running inside Docker, run with docker compose
+Using Nginx running inside Docker, run with docker-compose
+
+Using cloudflare tunnels to point to the raspberry pi server, give WAN access to the ip addresses on LAN ip addresses, like micro-controllers. In my case Raspberry Pi Pico Ws`
 
 ## Install Docker and docker-compose
 
